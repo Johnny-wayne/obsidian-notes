@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "a7616cacc739ffa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9c09fee840f16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8a00d617bb8491d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wido/Wido.canvas",
+                "viewState": {
+                  "x": 236.42261967849495,
+                  "y": -854.6063401625722,
+                  "zoom": -1.201980551972672
+                }
+              }
+            }
+          },
+          {
+            "id": "0d6ab34eb80a9df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguagens/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d89059809dfac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a17443a1e26867d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8862cc685655bf34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9825d390b95df7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "27e75745b5ded568",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66ab03467135183b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "4674902124d58b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7043772efa182e9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a33d0d53515967c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wido/Wido.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "182fcaa9f53111a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wido/Wido.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8f7dd339e96c9855",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b32403480d1966d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wido/Wido.canvas"
+              }
+            }
+          },
+          {
+            "id": "e9b28d1ed1701597",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c8a00d617bb8491d",
+  "lastOpenFiles": [
+    "Linguagens/Python/Python.md",
+    "Linguagens/Python/Laços de Repetição.md",
+    "Strings.md",
+    "Linguagens/Python/Objetos.md",
+    "Linguagens/Python/Operadores.md",
+    "Linguagens/XML.md",
+    "Cursos/Cursos.md",
+    "Estratégia do Sucesso.md",
+    "Cursos/Comunicação.md",
+    "Cursos",
+    "AI/Machine Learning/Modelos de Machine Learning/Modelos de Machine Learning.md",
+    "IA/Sem título.md",
+    "AI/AI.md",
+    "Projetos/Recursos interessantes.md",
+    "AI/Machine Learning/Aplicação dos algorítimos/Aplicação dos algoritmos.md",
+    "Linguagens/C-Sharp/C-Sharp.md",
+    "Linguagens/SQL/SQL.md",
+    "Linguagens/React.md",
+    "Linguagens/Linguagens.md",
+    "AI/Machine Learning/Modelos de Machine Learning/Criando Modelos de Machine Learning.md",
+    "AI/Machine Learning/O que é Machine Learning/O que é o aprendizado de máquina.md",
+    "Arquitetura de Software/Tipos de Arquitetura de Software.md",
+    "AI/Machine Learning/Machine Learning.md",
+    "IA/Machine Learning/Conclusão/Próximos passos.md",
+    "AI/Machine Learning/O que é Machine Learning/classificação binária.md",
+    "AI/Machine Learning/O que é Machine Learning/classificação multiclasse.md",
+    "AI/Machine Learning/O que é Machine Learning/Onde aplicar Machine Learning.md",
+    "AI/Machine Learning/Modelos de Machine Learning/Reforço",
+    "AI/Machine Learning/Modelos de Machine Learning/Supervisionado",
+    "AI/Machine Learning/Modelos de Machine Learning/Não supervisionado",
+    "AI/Machine Learning/Modelos de Machine Learning/Semi-supervisionado",
+    "AI",
+    "Anexos/Fluxogram.png",
+    "Anexos",
+    "Anexos/How it Works.png",
+    "Anexos/Tyoe of Generative AI based on Text.png",
+    "Anexos/Tyoe of Generative AI based on Image.png",
+    "Anexos/Generative Language Models.png",
+    "Anexos/Wave of neural networks.png",
+    "Anexos/Gen IA Learning.png",
+    "Anexos/Model built.png",
+    "Anexos/IA Models.png",
+    "Anexos/Discriminative & Generative.png",
+    "Anexos/Sistema em Python.canvas",
+    "Projetos/Estratégia.canvas",
+    "Wido/Wido.canvas",
+    "Arquitetura de Software",
+    "AI/Machine Learning/Deep Learning",
+    "Conceitos/método",
+    "Machine Learning - Linkedin/2. Modos de aprendizado de máquina/Sem título.canvas"
+  ]
+}

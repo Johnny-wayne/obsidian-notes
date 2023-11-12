@@ -1,0 +1,6 @@
+- #### [[Exemplos de problemas]]
+- #### [[Árvores de decisão]]
+- #### [[K-nearest neighbors]]
+- #### [[Agrupamento por k médias]]
+- #### [[Regressão]]
+- #### [[Naive Bayes]]

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"#### 1. **Integração com o Mercado Livre:**\n\n- Você precisará usar a API do Mercado Livre para autenticar e se conectar à conta do usuário.\n- Através da API, você poderá acessar os anúncios e suas informações, incluindo as imagens de capa.","id":"4cd41adecaebab76","x":-140,"y":-30,"width":265,"height":270,"color":"3"},
+		{"type":"text","text":"##### 7. **Monitoramento e Otimização:**\n\n- Implemente um sistema de monitoramento para rastrear o desempenho das imagens melhoradas em termos de engajamento dos anúncios.\n- Analise os resultados e faça ajustes no processo de melhoria de imagens, se necessário.","id":"1dbf27aafc056ff3","x":-580,"y":318,"width":338,"height":242,"color":"4"},
+		{"type":"text","text":"##### **2. Processamento de Imagens com IA:**\n\n- Procure por uma API ou biblioteca de processamento de imagens que utilize IA para melhorar as imagens.\n- Você enviará as imagens de capa para essa API e receberá as versões melhoradas em resposta.","id":"d21db7d6e076606a","x":-840,"y":-155,"width":399,"height":177,"color":"5"},
+		{"type":"text","text":"##### 4. **Fluxo de Trabalho:**\n- Quando um usuário autenticar sua conta do Mercado Livre, o sistema solicitará permissões necessárias.\n- O sistema recuperará a lista de anúncios do usuário por meio da API.\n- Para cada anúncio, o sistema extrairá a imagem de capa.","id":"026831ee19baa3d0","x":20,"y":-440,"width":312,"height":233,"color":"3"},
+		{"type":"text","text":"##### **5. Melhoria de Imagens:**\n\n- As imagens de capa extraídas serão enviadas para a API de processamento de imagens com IA.\n- A API aplicará algoritmos de melhoria, como ajuste de cores, nitidez, etc.","id":"e424f0428e2f3993","x":-411,"y":-480,"width":271,"height":273,"color":"5"},
+		{"type":"text","text":"##### 8. **Segurança e Privacidade:**\n\n- Certifique-se de lidar com os dados do usuário com segurança e siga as diretrizes de privacidade ao lidar com contas e imagens.\n","id":"5d3268fcca0758f2","x":-760,"y":82,"width":330,"height":178,"color":"1"},
+		{"type":"text","text":"##### 9. **Testes e Aprendizado Contínuo:**\n\n- Teste o sistema exaustivamente para garantir que ele funcione corretamente em diferentes cenários.\n- Esteja aberto a aprender com o feedback dos usuários e iterar no sistema para aprimorá-lo com o tempo.","id":"9284d5a3f706b84b","x":-140,"y":429,"width":355,"height":206,"color":"4"},
+		{"type":"text","text":"##### 6. **Atualização de Anúncios:**\n\n- Recebendo as imagens melhoradas da API de IA, o sistema atualizará as imagens de capa nos anúncios do usuário no Mercado Livre.","id":"5e352e151c381314","x":381,"y":-124,"width":295,"height":189,"color":"3"},
+		{"type":"text","text":"##### 3.  **Configuração do Sistema:**\n\n- Escolha uma linguagem de programação adequada para construir o sistema.\n- Utilize bibliotecas e frameworks para lidar com as requisições à API do Mercado Livre e para processar as imagens.","id":"7179e16cf41b818a","x":332,"y":199,"width":312,"height":240,"color":"6"}
+	],
+	"edges":[
+		{"id":"80cb57b561b05964","fromNode":"4cd41adecaebab76","fromSide":"left","toNode":"d21db7d6e076606a","toSide":"right","color":"5"},
+		{"id":"ba50637f5061b37b","fromNode":"4cd41adecaebab76","fromSide":"right","toNode":"7179e16cf41b818a","toSide":"left","color":"6"},
+		{"id":"7dc5f69461953d78","fromNode":"4cd41adecaebab76","fromSide":"top","toNode":"026831ee19baa3d0","toSide":"bottom","color":"3"},
+		{"id":"85109b32359821f2","fromNode":"4cd41adecaebab76","fromSide":"top","toNode":"e424f0428e2f3993","toSide":"bottom","color":"5"},
+		{"id":"76e319dc2d352eb7","fromNode":"4cd41adecaebab76","fromSide":"bottom","toNode":"1dbf27aafc056ff3","toSide":"top","color":"4"},
+		{"id":"76c39dec2e50fab8","fromNode":"4cd41adecaebab76","fromSide":"right","toNode":"5e352e151c381314","toSide":"left","color":"3"},
+		{"id":"a8f9d0250ce7524b","fromNode":"4cd41adecaebab76","fromSide":"bottom","toNode":"9284d5a3f706b84b","toSide":"top","color":"4"},
+		{"id":"f561f242be23f8ce","fromNode":"4cd41adecaebab76","fromSide":"left","toNode":"5d3268fcca0758f2","toSide":"right","color":"1"}
+	]
+}
