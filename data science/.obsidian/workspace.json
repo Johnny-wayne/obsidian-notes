@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "bb05604a18f52c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf8d541d37bff5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87364ebedda8e531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algoritmos/revisao modulo1/estrutura de decisão if else e elif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b463b4ca869868",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "redes neurais/REDES NEURAIS COMPLEXAS.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12edc9bb16cb1ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0703fe0a9944ddae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79e16fe0b3adc2e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42ef95e7d6a0b68a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9607f6dd44b0ac0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8352a48ed05ec4bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d078f998acb9a2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a00ec40adc7120b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "redes neurais/REDES NEURAIS COMPLEXAS.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7686985efdd19484",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "redes neurais/REDES NEURAIS COMPLEXAS.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53acecc51b39d3be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e98bb4317b22fbe0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "redes neurais/REDES NEURAIS COMPLEXAS.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "52b463b4ca869868",
+  "lastOpenFiles": [
+    "redes neurais/redes neurais (IA).canvas",
+    "estruturas não lineares/Sem título.md",
+    "estruturas lineares/VETORES E MATRIZES.canvas",
+    "estruturas lineares/estruturas de dados lineares c machine learning.canvas",
+    "estruturas lineares/data structure fila (queue).md",
+    "estruturas lineares/data structure arrays.md",
+    "estruturas de dados e algoritmos/capitulo 1 anotações algoritmos e estruturas de dados1 UFPR.md",
+    "algoritmos/revisao modulo1/estrutura de decisão if else e elif.md",
+    "algoritmos/revisao modulo1/estrutura de decisão.md",
+    "Sem título.canvas",
+    "estruturas lineares/data struture pilhas(stack).md",
+    "algoritmos/revisao modulo1",
+    "algoritmos",
+    "SQL E NO SQL/MONGO DB.md",
+    "redes neurais/REDES NEURAIS COMPLEXAS.canvas",
+    "estruturas de dados e algoritmos",
+    "SQL E NO SQL/Untitled 5.canvas",
+    "Untitled 5.canvas",
+    "Sem título.md",
+    "SQL E NO SQL",
+    "redes neurais",
+    "estruturas não lineares",
+    "estruturas lineares"
+  ]
+}

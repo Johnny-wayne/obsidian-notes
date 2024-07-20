@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "eda780de1cb53b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa4b1f6065a19ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0521dccd02828f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a50fc5621db602ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d5f740a11d5414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac1aee597aa034f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feffec096f6de0a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#FTP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfeaa3b3d8c8b7ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a4ef8492e5b69feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "68661dcac669aa95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6fcf411e2b0761d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-01-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6943e3f4b34d512d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-01-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e989782ab01df73a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38cb32269a84d271",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-01-19.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "eac1aee597aa034f",
+  "lastOpenFiles": [
+    "REDES DE COMPUTADORES/ARQUITETURA DE REDES E DISPOSITIVOS FISICOS/PROTOCOLOS DE REDE/TCP/transmission control protocol.md",
+    "REDES DE COMPUTADORES/ARQUITETURA DE REDES E DISPOSITIVOS FISICOS/PROTOCOLOS DE REDE/TCP/TRANSFER CONTROL PROTOCOL.canvas",
+    "REDES DE COMPUTADORES/ARQUITETURA DE REDES E DISPOSITIVOS FISICOS/PROTOCOLOS DE REDE/FTP/FTP.md",
+    "2024-01-19.md",
+    "VSCODE/SOCKET.py",
+    "VSCODE",
+    "Nova pasta",
+    "REDES DE COMPUTADORES/ARQUITETURA DE REDES E DISPOSITIVOS FISICOS/PROTOCOLOS DE REDE/FTP/Sem título.canvas",
+    "REDES DE COMPUTADORES/ARQUITETURA DE REDES E DISPOSITIVOS FISICOS/PROTOCOLOS DE REDE/FTP",
+    "Sem título 1",
+    "Sem título",
+    "CONCEITOS WEB/SERVIDORES WEB",
+    "CONCEITOS WEB/CLIENT SIDE",
+    "CONCEITOS WEB/SERVER SIDE",
+    "REQUISIÇOES HTTP E HTTPS"
+  ]
+}

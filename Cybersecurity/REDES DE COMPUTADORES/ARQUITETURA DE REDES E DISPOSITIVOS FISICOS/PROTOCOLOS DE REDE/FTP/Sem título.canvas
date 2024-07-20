@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7de4e9a711cfa2b3","x":420,"y":130,"width":250,"height":150,"type":"text","text":"USADO PARA TRANSMISSAO DE ARQUIVOS ENTRE COMPUTADORES(TCP IP)"},
+		{"id":"7e7edc8ab9cb8c41","x":-140,"y":41,"width":445,"height":164,"type":"text","text":"> [!NOTE]\n> \"FTP\" FILE TRANSFER PROTOCOL "},
+		{"id":"f275e4d6278662d1","x":131,"y":-500,"width":250,"height":280,"type":"text","text":"CONSTRUIDO PARA OPERAR NO NETWORK CONTROL PROGRAM(NCP) UM PROTOCOLO SIMPLES QUE UTILIZAVA DOIS ENDEREÇOS DE PORTAS EM CONEXAO (CLIENTE-SERVIDOR)"}
+	],
+	"edges":[
+		{"id":"c20167b1785359a3","fromNode":"7de4e9a711cfa2b3","fromSide":"top","toNode":"7e7edc8ab9cb8c41","toSide":"right"},
+		{"id":"9594b4f2c5ae9753","fromNode":"7e7edc8ab9cb8c41","fromSide":"top","toNode":"f275e4d6278662d1","toSide":"bottom"}
+	]
+}
